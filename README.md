@@ -1,5 +1,3 @@
-Sure! Here's a possible README.md file for your project:
-
 # NBA Player Statline Predictor
 
 This is a project that uses machine learning to predict the sum of points, rebounds, and assists for NBA players in a given game. The project includes several scripts for web-scraping betting odds, player data, and team statistics, as well as for predicting player statlines and checking the results.
